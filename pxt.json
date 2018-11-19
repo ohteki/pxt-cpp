@@ -1,0 +1,19 @@
+{
+    "name": "cpp",
+    "version": "0.0.1",
+    "description": "description",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "led.cpp",
+        "shims.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
